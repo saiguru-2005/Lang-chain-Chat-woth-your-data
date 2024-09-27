@@ -1,11 +1,11 @@
-# 🚀 [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/?utm_campaign=langchain-launch&utm_medium=email&_hsmi=265152429&_hsenc=p2ANqtz-9UlYz5c-nRZMfgLCGV8A8NUouNPlJfr2zlCSVvOQ1Ma_u2OkBGboSEw-clvdMEiHEAqv123vqBbIPY616OFPjKODkF4g&utm_content=265152429&utm_source=hs_email) 
+#  [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/?utm_campaign=langchain-launch&utm_medium=email&_hsmi=265152429&_hsenc=p2ANqtz-9UlYz5c-nRZMfgLCGV8A8NUouNPlJfr2zlCSVvOQ1Ma_u2OkBGboSEw-clvdMEiHEAqv123vqBbIPY616OFPjKODkF4g&utm_content=265152429&utm_source=hs_email) 
 
-📚 Welcome to the "LangChain: Chat with Your Data" course! Learn directly from the LangChain creator, Harrison Chase, and discover the power of LangChain in building chatbots that interact with information from your own documents and data. 
+ Welcome to the "LangChain: Chat with Your Data" course! Learn directly from the LangChain creator, Harrison Chase, and discover the power of LangChain in building chatbots that interact with information from your own documents and data. 
 
 **LangChain**:  🔗[GitHub](https://github.com/hwchase17/langchain), 📚[Documentation](https://python.langchain.com/en/latest/index.html)
 
 ## Course Summary
-📖 A short course on LangChain: Chat With Your Data! Explore two main topics: Retrieval Augmented Generation (RAG) and building a chatbot. Unlock the potential of Large Language Models (LLMs) to retrieve contextual documents and create chatbots that respond using your own data. 
+ A short course on LangChain: Chat With Your Data! Explore two main topics: Retrieval Augmented Generation (RAG) and building a chatbot. Unlock the potential of Large Language Models (LLMs) to retrieve contextual documents and create chatbots that respond using your own data. 
 
 You'll learn about:
 1.  **Document Loading**: Access over 80 unique loaders provided by LangChain to handle various data sources, including audio and video.
@@ -14,7 +14,7 @@ You'll learn about:
 <img src="images/L1-Document_loading.png" height="450"> 
 </p>
 
-2. ✂ **Document Splitting**: Discover best practices and considerations for splitting data effectively.
+2.  **Document Splitting**: Discover best practices and considerations for splitting data effectively.
 <p align="center">
 <img src="images/L2-Document_splitting.png" width="450" > 
 </p>
